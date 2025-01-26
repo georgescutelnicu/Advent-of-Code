@@ -19,7 +19,7 @@ for start in starting_points:
     r, c = q.popleft()
     for x, y in coords:
       _r, _c, = r + x, c + y
-      if still_in_grid(_r, _c) and (_r, _c):
+      if still_in_grid(_r, _c):
         if grid[_r][_c] == str(int(grid[r][c]) + 1):
           if grid[_r][_c] == "9":
             res += 1
