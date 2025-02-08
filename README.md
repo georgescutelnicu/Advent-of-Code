@@ -5,7 +5,7 @@ This repository contains my solutions for the Advent of Code challenges. Advent 
 If you want to learn more about it you can check [Advent of Code](https://adventofcode.com) website.
 
 ## 2024 Progress
-
+*All solutions are in Python, with Java implementations available for the first half of the challenges.*
 ### Missing Solutions
 
 **Part 1**: Day 17, Day 21  
