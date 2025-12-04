@@ -7,7 +7,7 @@ coords = [(-1, 1), (1, 1),
          (-1, -1), (1, -1)]
 
 def is_valid(r, c):
-  return 0 <= _r < len(grid) and 0 <= _c < len(grid[0])
+  return 0 <= r < len(grid) and 0 <= c < len(grid[0])
 
 def check_diagonal(r, c):
   return ((grid[r+-1][c+1] != grid[r+1][c+-1]) and

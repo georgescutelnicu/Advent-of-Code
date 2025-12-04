@@ -7,7 +7,7 @@ coords = [(-1, -1), (-1, 0), (1, -1),
          (-1, 1), (1, 0), (1, 1)]
 
 def is_valid(r, c):
-  return 0 <= _r < len(grid) and 0 <= _c < len(grid[0])
+  return 0 <= r < len(grid) and 0 <= c < len(grid[0])
 
 for r in range(len(grid)):
   for c in range(len(grid[0])):
