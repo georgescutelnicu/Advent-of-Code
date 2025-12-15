@@ -9,14 +9,15 @@ If you want to learn more about it you can check [Advent of Code](https://advent
 ### Missing Solutions
 
 **Part 1**: Day 17, Day 21  
-**Part 2**: Day 12, Day 15,  Day 16, Day 17, Day 20, Day 21, Day 22, Day 24, Day 25
+**Part 2**: Day 12, Day 15,  Day 16, Day 17, Day 20, Day 21, Day 22, Day 24
 
 ## 2025 Progress
 ### Missing Solutions
 
-**Part 1**: <br>
-**Part 2**:
+**Part 1**: Day 10 <br>
+**Part 2**: Day 6, Day 9, Day 10
 <br><br>
 
 Happy coding!<br>
 (￣‿￣)☕
+
